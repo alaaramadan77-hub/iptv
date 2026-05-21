@@ -27,8 +27,8 @@ http://ares.mnet.mk/hls/mnet-kids.m3u8
 http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-id="MNetSport.mk@SD",M-Net Sport
 https://live.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 tvg-id="MRT1.mk@SD",MRT 1 (480p)
-https://s1.teve.mk/tvstanici/6/playlist.m3u8
+#EXTINF:-1 tvg-id="MRT1.mk@SD",MRT 1 (480)
+https://vod-c57.interspace.com/channel_abr/42/receiver/42_p2/chunks.m3u8?nimblesessionid=104211056&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDI2IDE6NDI6NTMgUE0maGFzaF92YWx1ZT1yMjZtNG1HLzBUeS9Dclp6YXZBMEFRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTZhMGYwYmRkZDE5OWI=
 #EXTINF:-1 tvg-id="MRT2.mk@SD",MRT 2 [Geo-blocked]
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
 #EXTINF:-1 tvg-id="MRTSobraniskikanal.mk@SD",MRT Sobraniski kanal [Geo-blocked]
